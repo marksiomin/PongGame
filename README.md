@@ -1,6 +1,7 @@
 A retro Pong game using Python for the game logic, with Arduino for inputhandling. Currently compatible with a keyboard (under development), with future plans tointegrate a custom-designed PCB joystick for enhanced gameplay
 
-list of modules:
+List of modules:
+
 -main.py
 
 -graphics.py: handles the ui of buttons, frames, labels and canvasas
